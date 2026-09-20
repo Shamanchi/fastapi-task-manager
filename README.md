@@ -1,10 +1,10 @@
-﻿# FastAPI Task Manager
+# FastAPI Task Manager
 
 **REST API на FastAPI + PostgreSQL + Docker**
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.112-009688?logo=fastapi)](https://fastapi.tiangolo.com)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![License](https://img.shields.io/badge/License-Shamanchi-green)](LICENSE)
 
 ---
 
@@ -85,8 +85,7 @@ GitHub Actions: Ruff, MyPy, Pytest, Docker build
 ---
 
 ## Лицензия
-MIT
-
+Лицензия Shamanchi 1.0 (source-available) — см. [LICENSE](LICENSE).
 ---
 
 > Источник темы: Каталог портфолио, запись fastapi-task-manager
